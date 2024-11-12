@@ -1,0 +1,5 @@
+code 3
+cool 3
+fun 3
+nice 1
+sweet 1
